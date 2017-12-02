@@ -369,6 +369,7 @@
     <!-- General info title [CHAR LIMIT=100] -->
     <string name="general_info_title">General info</string>
 
+
     <!--+++++++++++-->
     <!-- Recording -->
     <!--+++++++++++-->
@@ -551,8 +552,8 @@
     <string name="pref_delete_all_data_desc">WARNING! All data will be deleted.</string>
     <!-- Data deleted successfully message [CHAR LIMIT=100] -->
     <string name="all_data_deleted_msg">Data deleted!</string>
-	
-	<!--+++++++++++++++-->
+
+    <!--+++++++++++++++-->
     <!-- Notifications -->
     <!--+++++++++++++++-->
 
@@ -581,7 +582,7 @@
     <!--+++++++-->
     <!-- About -->
     <!--+++++++-->
-	
+
     <!-- GoBees app [CHAR LIMIT=100] -->
     <string name="gobees_app" translatable="false">GoBees App</string>
     <!-- App version [CHAR LIMIT=100] -->

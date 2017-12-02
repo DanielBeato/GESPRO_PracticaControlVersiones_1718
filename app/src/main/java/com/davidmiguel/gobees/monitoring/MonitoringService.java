@@ -94,9 +94,9 @@ public class MonitoringService extends Service implements AndroidCameraListener 
     // Weather refresh rate
     private static final long WEATHER_REFRESH_RATE = DateTimeUtils.T_15_MINUTES;
 
-	// Notifications
-	private NotificationsHelper notificationsHelper;
-	
+    // Notifications
+    private NotificationsHelper notificationsHelper;
+
     // Service stuff
     private static MonitoringService instance = null;
     private final IBinder binder = new MonitoringBinder();
@@ -136,8 +136,8 @@ public class MonitoringService extends Service implements AndroidCameraListener 
         instance = this;
         // Init record list
         records = new LinkedList<>();
-		// Notifications
- +      notificationsHelper = new NotificationsHelper(this);
+        // Notifications
+        notificationsHelper = new NotificationsHelper(this);
         // Init db
         goBeesRepository = Injection.provideApiariesRepository();
         goBeesRepository.openDb();
@@ -165,7 +165,7 @@ public class MonitoringService extends Service implements AndroidCameraListener 
             configBeeCounter();
             configCamera();
             Notification not = notificationsHelper.getMonitoringNotification(
- +                    monitoringSettings.getApiaryId(), monitoringSettings.getHiveId());
+                    monitoringSettings.getApiaryId(), monitoringSettings.getHiveId());
             configOpenCv();
             // Start service in foreground
             startForeground(NOTIFICATION_ID, not);
