@@ -1,4 +1,3 @@
-@@ -0,0 +1,98 @@
 /*
  * GoBees
  * Copyright (c) 2016 - 2017 David Miguel Lozano
@@ -15,8 +14,8 @@
  *
  * You should have received a copy of the GNU General Public License
  * along with this program. If not, see <https://www.gnu.org/licenses/gpl-3.0.txt>.
-*/
- 
+ */
+
 package com.davidmiguel.gobees.utils;
 
 import android.app.Notification;
