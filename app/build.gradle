@@ -169,7 +169,11 @@ dependencies {
     // VNTNumberPickerPreference (NumberPicker Preference) : https://github.com/vanniktech/VNTNumberPickerPreference
     compile 'com.vanniktech:vntnumberpickerpreference:1.0.0'
     // Permission Utils (check runtime permissions) : https://github.com/rebus007/PermissionUtils
+<<<<<<< HEAD
     compile 'rebus:permission-utils:2.0.1'
+=======
+    compile 'rebus:permission-utils:1.0.6'
+>>>>>>> master
 
     //----------------------------------------------------------------------------------------------
     // Debugging / logging dependencies
