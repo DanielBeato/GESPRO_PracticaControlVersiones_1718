@@ -4,9 +4,9 @@ Linea 2 sin modificar por nadie
 Linea 3 sin modificar por nadie
 Linea 4 sin modificar por nadie
 Linea 5 sin modificar por nadie
-Linea 6 sin modificar por nadie
-Linea 7 sin modificar por nadie
-Linea 8 sin modificar por nadie
+La línea 6 ha sido modificada por Alisson en la rama2
+La línea 7 ha sido modificada por Alisson en la rama2
+La línea 8 ha sido modificada por Alisson en la rama2
 Linea 9 sin modificar por nadie
 Linea 10 sin modificar por nadie
 Linea 11 sin modificar por nadie
