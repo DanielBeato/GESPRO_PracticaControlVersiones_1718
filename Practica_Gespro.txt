@@ -13,12 +13,12 @@ Linea 11 sin modificar por nadie
 Linea 12 sin modificar por nadie
 Linea 13 sin modificar por nadie
 Linea 14 sin modificar por nadie
-Linea 15 ha sido modificada por Mario en la rama "develop1" 
+Linea 15 ha sido modificada por Jorge en la rama "develop1" 
 Linea 16 ha sido modificada por Mario en la rama "develop1"
 Linea 17 ha sido modificada por Mario en la rama "develop1"
-Linea 18 ha sido modificada por Mario en la rama "develop1"
+Linea 18 ha sido modificada por Jorge en la rama "develop1"
 Linea 19 ha sido modificada por Mario en la rama "develop1"
-Linea 20 ha sido modificada por Mario en la rama "develop1"
+Linea 20 ha sido modificada por Jorge en la rama "develop1"
 Linea 21 ha sido modificada por Mario en la rama "develop1" 
 Linea 22 sin modificar por nadie
 Linea 23 sin modificar por nadie
